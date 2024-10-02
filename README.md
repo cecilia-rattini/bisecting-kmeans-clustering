@@ -1,2 +1,2 @@
-# bisecting-kmeans-clustering
-comparison of bisecting vs kmeans algorithms using iris dataset
+# Bisecting kmeans clustering
+Comparison of bisecting vs kmeans algorithms using iris dataset in python.
